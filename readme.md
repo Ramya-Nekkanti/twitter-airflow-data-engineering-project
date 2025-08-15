@@ -7,8 +7,6 @@ This project uses Apache Airflow to extract tweets from Twitter's API, transform
 - Stores results in CSV format on AWS S3
 - Scheduled daily via Airflow DAG
 
-# Twitter ETL Pipeline with Apache Airflow
-
 ## Steps
 
 ### 1. **Set up Twitter Developer Account**
